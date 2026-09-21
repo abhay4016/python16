@@ -1,7 +1,4 @@
-# B)  write another function reassign_dict(d) that reassigns the dictionary variable to a new variable
-
-##  call this function  with alist and check whether the original list changes outside the function or not
-
+    
 
 
 def add_entry(d):
