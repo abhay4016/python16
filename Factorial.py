@@ -1,4 +1,4 @@
-# 5. write a fuction to calulate the factorial of a number taking input from the user
+
 
 
 
@@ -16,4 +16,4 @@ def factorial(n):
     
     
 n = int(input("Enter a number to calculate its factorial: "))
-print(f"The factorial of {n} is: {factorial(n)}") # calling the function 
+print(f"The factorial of {n} is: {factorial(n)}")  
